@@ -1,4 +1,4 @@
-# Saludo, soy VesuDev 🌟
+# VesuDev 🌐🖥️
 ### 🔍 Entender, ⚙️ Resolver y 💻 Codificar!
 ## Sobre Mí
 
@@ -30,8 +30,8 @@ Inspirado por el trabajo de mi padre en la industria maderera, desarrollé esta 
 
 Estoy en constante búsqueda de mejorar mis habilidades y aprender nuevas tecnologías. Mi objetivo a largo plazo es contribuir a proyectos que tengan un impacto real en la sociedad, ya sea a través de software que mejore la eficiencia en industrias tradicionales o de aplicaciones que faciliten la vida cotidiana.
 
-## Conéctate Conmigo
+## Contacta Conmigo
 
-Si te interesa lo que hago o si tienes alguna propuesta de colaboración, no dudes en ponerte en contacto conmigo. Estoy siempre abierto a nuevas ideas y a trabajar en proyectos emocionantes.
+Si te interesa lo que hago o si tienes alguna propuesta de colaboración, no dudes en ponerte en contacto conmigo. Estoy siempre abierto a nuevas ideas y a trabajar en proyectos Colaborativos.
 
 - **Email:** [Vesudev18@gmail.com](mailto:Vesudev18@gmail.com)
