@@ -1,9 +1,4 @@
-<p align="center">
-  <img src="vesu_banner.png" alt="Perfil" style="border-radius: 50%; width: 150px; height: 150px;">
-</p>
-
-# Pura Vida ,Soy VesuDev 🌐🖥️
-
+![](vesu_banner.png)
 
 #### 🔍 Entender, ⚙️ Resolver y 💻 Codificar!
 
