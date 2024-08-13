@@ -1,5 +1,12 @@
-# VesuDev 🌐🖥️
-### 🔍 Entender, ⚙️ Resolver y 💻 Codificar!
+<p align="center">
+  <img src="vesu_banner.png" alt="Perfil" style="border-radius: 50%; width: 150px; height: 150px;">
+</p>
+
+# Pura Vida ,Soy VesuDev 🌐🖥️
+
+
+#### 🔍 Entender, ⚙️ Resolver y 💻 Codificar!
+
 ## Sobre Mí
 
 ¡Hola! Soy **Jeffry Pérez Duarte**, mejor conocido como *VesuDev* en el mundo del desarrollo de software. Mi pasión por la tecnología y la resolución de problemas me ha llevado a especializarme en el desarrollo de aplicaciones móviles y de escritorio. Cada proyecto que creo es una oportunidad para transformar ideas en herramientas prácticas que faciliten la vida de las personas.
