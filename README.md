@@ -1,29 +1,29 @@
-# Saludo soy VesuDev 🌟
+# Saludo, soy VesuDev 🌟
 ### 🔍 Entender, ⚙️ Resolver y 💻 Codificar!
 ## Sobre Mí
 
-¡Hola! Soy **Jeffry Pérez Duarte**, mejor conocido como *VesuDev* en el mundo del desarrollo de Software. Mi pasión por la tecnología y la resolución de problemas me ha llevado a especializarme en el desarrollo de aplicaciones móviles y de escritorio. Cada proyecto que creo es una oportunidad para transformar ideas en herramientas prácticas que faciliten la vida de las personas.
+¡Hola! Soy **Jeffry Pérez Duarte**, mejor conocido como *VesuDev* en el mundo del desarrollo de software. Mi pasión por la tecnología y la resolución de problemas me ha llevado a especializarme en el desarrollo de aplicaciones móviles y de escritorio. Cada proyecto que creo es una oportunidad para transformar ideas en herramientas prácticas que faciliten la vida de las personas.
 
-Mi enfoque principal es desarrollar aplicaciones para empresas pequeñas, que tiene problemas que resolver y no mucho presupuesto quiero ayudar a las personas y aportar valor al mundo con mis proyectos
+Mi enfoque principal es desarrollar aplicaciones para pequeñas empresas que tienen problemas que resolver y no mucho presupuesto. Quiero ayudar a las personas y aportar valor al mundo con mis proyectos.
 
 ## Proyectos Destacados 🚀
 
 ### Bus Finder 🚌
-Una herramienta revolucionaria para la gestión del transporte público. **Bus Finder** permite a los usuarios ver la ubicacion exacta de el autobus y en saber en cuanto tiempo estara en tu ubicacion actual que naturamente deberia ser una parada de autobus
+Una herramienta revolucionaria para la gestión del transporte público. **Bus Finder** permite a los usuarios ver la ubicación exacta del autobús y saber en cuánto tiempo estará en tu ubicación actual, que naturalmente debería ser una parada de autobús.
 
-- **Tecnologías:** Python, Flask, Servicio de Geolocalizacion
-- **Características clave:** Mostrar ubicacion exacta del autobus, Calcular el tiempo de llegada a tu ubicacion, Mostrar varias Rutas
+- **Tecnologías:** Python, Flask, Servicio de Geolocalización
+- **Características clave:** Mostrar ubicación exacta del autobús, Calcular el tiempo de llegada a tu ubicación, Mostrar varias rutas
 
 ### Dev Kit 🛠️
-Una solucion rapida a el problema de tener que cambiar de ordenador con **Dev Kit** puedes instalar con un click todos los programas necesarios para los desarrolladores y empezar a codificar 
+Una solución rápida al problema de tener que cambiar de ordenador. Con **Dev Kit** puedes instalar con un clic todos los programas necesarios para desarrolladores y empezar a codificar.
 
 - **Tecnologías:** Python, Tkinter
-- **Características clave:** Instalacion automatica, Seleccion de programas a Gusto.
+- **Características clave:** Instalación automática, Selección de programas a gusto.
 
 ### Cubicador de Madera 🌲
-Inspirado por el trabajo de mi padre en la industria maderera, desarrollé esta aplicación para facilitar el proceso de cubicación de madera. **Cubicador de Madera** es una herramienta util para cualquier trabajador en el sector maderero, permitiendo cálculos precisos y eficientes directamente desde un dispositivo móvil.
+Inspirado por el trabajo de mi padre en la industria maderera, desarrollé esta aplicación para facilitar el proceso de cubicación de madera. **Cubicador de Madera** es una herramienta útil para cualquier trabajador en el sector maderero, permitiendo cálculos precisos y eficientes directamente desde un dispositivo móvil.
 
-- **Tecnologías:** Android Studio, kotlin, XML
+- **Tecnologías:** Android Studio, Kotlin, XML
 - **Características clave:** Cálculo de volumen, interfaz sencilla, almacenamiento de datos.
 
 ## Mis Objetivos 🎯
