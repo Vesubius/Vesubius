@@ -20,6 +20,6 @@ Mi objetivo a largo plazo es contribuir a proyectos con **impacto real en la soc
 Si te interesa lo que hago o tienes una propuesta de colaboración, no dudes en contactarme.  
 Estoy abierto a nuevas ideas y a trabajar en **proyectos colaborativos**.
 
-**Emails:**
-- [Vesudev18@gmail.com](mailto:Vesudev18@gmail.com)
-- [JeffryPerezDuarte@gmail.com](mailto:JeffryPerezDuarte@gmail.com)
+- **Email:**
+- Vesudev18@gmail.com
+- JeffryPerezDuarte@gmail.com
