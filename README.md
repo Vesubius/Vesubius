@@ -21,5 +21,5 @@ Si te interesa lo que hago o tienes una propuesta de colaboración, no dudes en 
 Estoy abierto a nuevas ideas y a trabajar en **proyectos colaborativos**.
 
 - **Email:**
-- Vesudev18@gmail.com
-- JeffryPerezDuarte@gmail.com
+  - [📧 Vesudev18@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=Vesudev18@gmail.com)
+  - [📧 JeffryPerezDuarte@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=JeffryPerezDuarte@gmail.com)
