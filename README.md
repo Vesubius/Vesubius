@@ -1,22 +1,25 @@
-![](vesu_banner.png)
+#### 🔍 Entender · ⚙️ Resolver · 💻 Codificar
 
-#### 🔍 Entender, ⚙️ Resolver y 💻 Codificar!
+## 👋 Sobre mí
 
-## Sobre Mí
+¡Hola! Soy **Jeffry Pérez Duarte**, conocido como *VesuDev* en el mundo del desarrollo de software.  
+Mi pasión por la tecnología y la resolución de problemas me ha llevado a especializarme en el desarrollo de aplicaciones móviles y de escritorio.
 
-¡Hola! Soy **Jeffry Pérez Duarte**, mejor conocido como *VesuDev* en el mundo del desarrollo de software. Mi pasión por la tecnología y la resolución de problemas me ha llevado a especializarme en el desarrollo de aplicaciones móviles y de escritorio. Cada proyecto que creo es una oportunidad para transformar ideas en herramientas prácticas que faciliten la vida de las personas.
+Cada proyecto que creo es una oportunidad para transformar ideas en **soluciones prácticas** que faciliten la vida de las personas.
 
-Mi enfoque principal es desarrollar aplicaciones para pequeñas empresas que tienen problemas que resolver y no mucho presupuesto. Quiero ayudar a las personas y aportar valor al mundo con mis proyectos.
+Mi enfoque principal es desarrollar aplicaciones para **pequeñas empresas** que necesitan resolver problemas reales, pero cuentan con presupuestos limitados.  
+Mi objetivo es **aportar valor**, ayudar a las personas y crear software con propósito.
 
+## 🎯 Mis objetivos
 
-## Mis Objetivos 🎯
+Estoy en constante aprendizaje y mejora de mis habilidades.  
+Mi objetivo a largo plazo es contribuir a proyectos con **impacto real en la sociedad**, ya sea optimizando procesos en industrias tradicionales o creando aplicaciones que mejoren la vida cotidiana.
 
-Estoy en constante búsqueda de mejorar mis habilidades y aprender nuevas tecnologías. Mi objetivo a largo plazo es contribuir a proyectos que tengan un impacto real en la sociedad, ya sea a través de software que mejore la eficiencia en industrias tradicionales o de aplicaciones que faciliten la vida cotidiana.
+## 📬 Contacto
 
-## Contacta Conmigo
+Si te interesa lo que hago o tienes una propuesta de colaboración, no dudes en contactarme.  
+Estoy abierto a nuevas ideas y a trabajar en **proyectos colaborativos**.
 
-Si te interesa lo que hago o si tienes alguna propuesta de colaboración, no dudes en ponerte en contacto conmigo. Estoy siempre abierto a nuevas ideas y a trabajar en proyectos Colaborativos.
-
-- **Email:**  
-  - [Vesudev18@gmail.com](mailto:Vesudev18@gmail.com)  
-  - [JeffryPerezDuarte@gmail.com](mailto:JeffryPerezDuarte@gmail.com)
+**Emails:**
+- [Vesudev18@gmail.com](mailto:Vesudev18@gmail.com)
+- [JeffryPerezDuarte@gmail.com](mailto:JeffryPerezDuarte@gmail.com)
