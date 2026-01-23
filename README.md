@@ -17,4 +17,4 @@ Estoy en constante búsqueda de mejorar mis habilidades y aprender nuevas tecnol
 
 Si te interesa lo que hago o si tienes alguna propuesta de colaboración, no dudes en ponerte en contacto conmigo. Estoy siempre abierto a nuevas ideas y a trabajar en proyectos Colaborativos.
 
-- **Email:** [Vesudev18@gmail.com](mailto:Vesudev18@gmail.com)
+- **Email:** [Vesudev18@gmail.com](mailto:Vesudev18@gmail.com)  [JeffryPerezDuarte@gmail.com](mailto:JeffryPerezDuarte@gmail.com)
